@@ -5,12 +5,31 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+# Dice Roll App (Flutter)
 
-A few resources to get you started if this is your first Flutter project:
+A simple **Dice Roll App** built using **Flutter and Dart**.
+This app simulates rolling a dice and displays a random number each time the user presses the roll button.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Random dice number generation
+* Interactive roll button
+* Dice image changes on each roll
+* Simple and clean UI
+
+## Tech Stack
+
+* Flutter
+* Dart
+* Material Design Widgets
+
+## How It Works
+
+When the user taps the **Roll Dice** button, the app generates a random number between **1 and 6** and updates the dice image accordingly.
+
+## Purpose
+
+This project was created for **learning Flutter basics**, including state management, UI design, and random number generation.
+
+
+
