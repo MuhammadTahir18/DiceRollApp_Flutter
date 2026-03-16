@@ -31,5 +31,5 @@ When the user taps the **Roll Dice** button, the app generates a random number b
 
 This project was created for **learning Flutter basics**, including state management, UI design, and random number generation.
 
-
+![App Screenshot]( https://github.com/MuhammadTahir18/DiceRollApp_Flutter/blob/87ff42fc0a14b4ae838dbbe44d0e66a67fae8d25/dice.PNG)
 
